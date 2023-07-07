@@ -10,3 +10,8 @@ Kelas       : Strategi Algoritma A
 
 
 Angkatan    : 2021
+
+
+#NO 1
+
+

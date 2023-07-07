@@ -15,7 +15,7 @@ public class Ngapain {
         }
     }
 
-    // Prints the array
+    // Print the array
     void printArray(int arr[]) {
         int n = arr.length;
         for (int i = 0; i < n; ++i) {
